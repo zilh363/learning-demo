@@ -1,3 +1,3 @@
 # learning-demo
 my learning git repo
-Author= Zil
+Author= Zil Hingu
